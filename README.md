@@ -1,2 +1,2 @@
 # Learngit
-Learn how use git &amp; github
+Learn how to use git &amp; github
